@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="empresa_destalhes">Sobre a empresa</string>
+    <string name="empresa_detalhe">Sobre a empresa</string>
+    <string name="sevicos_destal">Serviços</string>
+    <string name="texto_consultoria" />
+    <string name="texto_servico">Consultoria</string>
+    <string name="texto_processos">Processos</string>
+    <string name="texto_acompanhamentos">Acompanhamento e projetos</string>
+    <string name="texto_ponto">...</string>
+</resources>
